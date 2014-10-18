@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Witch Trigger.js">
+    <Files>
+      <File FileName="Assets\Scripts\Boombox Sparks.js" Line="17" Column="38" />
+      <File FileName="Assets\Scripts\Witch Trigger.js" Line="15" Column="48" />
+      <File FileName="Assets\Scripts\EndMessage.js" Line="11" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

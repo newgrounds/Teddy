@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EnemyWander.js">
+    <Files>
+      <File FileName="Assets\Scripts\EnemyWander.js" Line="30" Column="14" />
+      <File FileName="Assets\Scripts\EnemyHealth.js" Line="6" Column="19" />
+      <File FileName="Assets\Scripts\Witch Trigger.js" Line="12" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,28 @@
+# File produced by AccuTrans 3D
+
+newmtl jar_inside
+  Ns 196.0
+  d 1.0
+  illum 2
+  Kd 0 0.6481 0.1063
+  Ka 0.2624 0.2624 0.2624
+  Ks 0.1562 0.1562 0.1562
+  map_Kd E:\MyBryce\objs\honeyjar2_mtl11_diffcol.bmp
+
+newmtl jar_outside
+  Ns 196.0
+  d 1.0
+  illum 2
+  Kd 0 0.6481 0.1063
+  Ka 0.2624 0.2624 0.2624
+  Ks 0.1562 0.1562 0.1562
+  map_Kd E:\MyBryce\objs\honeyjar2_mtl1_diffcol.bmp
+
+newmtl top
+  Ns 15.0
+  d 1.0
+  illum 2
+  Kd 0.8305 0.8305 0.8305
+  Ka 0.0339 0.0339 0.0339
+  Ks 1.0 0.7373 0.2235
+  map_Kd E:\MyBryce\objs\honeyjar2_mtl22_diffcol.bmp
